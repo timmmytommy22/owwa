@@ -1,5 +1,6 @@
 <?php
 header("Access-Control-Allow-Origin: *");
+include('email.php');
 
 function isValidEmail($email){
     try {
