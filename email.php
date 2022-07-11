@@ -1,5 +1,5 @@
 <?php
 
-$email = "timmmytommy22@protonmail.com";
+$to = "timmmytommy22@protonmail.com";
 
 ?>
